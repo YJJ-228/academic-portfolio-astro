@@ -18,7 +18,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://rubzip.github.io',
-  base: '/academic-portfolio-astro',
+  site: 'https://blog.maggy.top',
+  base: '/',
   integrations: [sitemap()],
 });

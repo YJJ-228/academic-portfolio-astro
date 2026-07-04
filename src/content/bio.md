@@ -1,28 +1,23 @@
 ---
-name: "Claude Shannon"
-avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+name: "Jiongjie Ye"
+avatar: "admin.jpg"
+shortBio: "Master's student at ShanghaiTech University (Viseer Lab), focusing on Human–Computer Interaction (HCI)."
+institution: "ShanghaiTech University, Shanghai, China"
 ---
-
-I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
+I am a master's student at ShanghaiTech University (SHTU) and a member of the [ViseerLab](https://viseerlab.cn/), specialising in Human–Computer Interaction (HCI). I received my B.Sc. in Artificial Intelligence from East China University of Science and Technology (ECUST). My work and interests centre on designing and evaluating interactive systems that bridge human needs and intelligent technologies.
 
 ## My Life
 
-Born in Petoskey, Michigan on April 30, 1916, I showed an early aptitude for engineering and mathematics. After studying at the University of Michigan, I completed my PhD at MIT where I famously applied Boolean algebra to electrical circuits. My master's thesis on relay switching circuits is considered one of the most important master's theses ever written.
-
-During World War, I worked at Bell Labs on fire control systems and cryptography, which led to my seminal work in information theory.
+I grew up in China and pursued an undergraduate degree in Artificial Intelligence at ECUST, where I developed a strong foundation in machine learning and computational methods. Motivated by a desire to make AI more usable and human-centred, I continued my studies at ShanghaiTech University.
 
 ## Current Work
 
-I continue to work on various problems at the intersection of mathematics, engineering, and computer science. My interests include artificial intelligence, pattern recognition, game theory, and the fundamental limits of computation.
-
-I also enjoy juggling, unicycling, and playing the clarinet - I even built a juggling machine!
+At ShanghaiTech University I focus on HCI research, with an emphasis on human-centred AI, user experience design, and interactive system evaluation. My projects explore how intelligent interfaces can better support users in real-world tasks and how to design AI tools that are transparent and accessible.
 
 ## Research Interests
 
-My research focus includes: **Information Theory**, **Cryptography**, **Digital Computing**, **Artificial Intelligence**, **Game Theory**, and **Switching Circuits**.
+My research interests include: **Human–Computer Interaction (HCI)**, **Human-centred AI**, **User Experience (UX)**, **Interactive Systems**, **Accessibility**, and **Evaluation Methods**.
 
 ---
 
-*"I am a mathematician. I am interested in the fundamental limits on the rate at which information can be transmitted."*
+*"I study how people and intelligent systems can work together to create more useful, usable, and inclusive technology."*
