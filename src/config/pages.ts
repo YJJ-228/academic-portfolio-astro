@@ -8,7 +8,7 @@ export const PAGES: PagesConfig = {
     },
     blog: {
         title: "Blog",
-        subtitle: "Thoughts on physics, philosophy, and music.",
+        subtitle: "Thoughts on coding, life, and music.",
         isActive: true,
     },
     publications: {
