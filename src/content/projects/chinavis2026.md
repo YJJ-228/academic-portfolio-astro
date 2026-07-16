@@ -13,7 +13,7 @@ external_url: "https://chinavis.org/2026/en/challenge"
 
 **"京剧经纬" (Jingju Jingwei)** is an interactive visual analytics system for exploring Beijing Opera scripts through the lens of data science. The project was awarded **Second Prize** in Competition Track I (Data Visual Analysis and Humanistic Creativity) at [ChinaVis 2026](https://chinavis.org/2026/en/), one of the premier data visualization competitions in China.
 
-**Team Members**: Duan Linpei, Li Quan (Advisor), Zhu Yichao, Quan Yuanchang, Ye Jiongjie, Gao Kehong, Liu Linjia
+**Team Members**: Duan Linpei, Li Quan (Advisor), Zhu Yichao, Quan Yuanchang, **Ye Jiongjie**, Gao Kehong, Liu Linjia
 
 ## Background
 
